@@ -32,5 +32,5 @@ class LevineSequence:
             self.write()
 
 
-Tester = LevineSequence()
-Tester.loop()
+Start = LevineSequence()
+Start.loop()
