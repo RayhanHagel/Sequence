@@ -22,7 +22,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Prime_number), a prime nu
 ## Fibonacci Sequence
 Fibonacci sequence is a sequence that consists of numbers where the next term is the sum of two terms before it. F(n) = F(n-1) + F(n-2). For more information about this, please proceed to [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
 
-![Fibonacci Visualized](https://github.com/RayhanHagel/Sequence/blob/main/Fibonacci_Numbers/visualized.png)
+![Fibonacci Visualized](https://github.com/RayhanHagel/Sequence/blob/main/Fibonacci_Sequence/visualized.png)
 
 
 ## Tribonacci Sequence
@@ -30,7 +30,7 @@ The tribonacci numbers are like the Fibonacci numbers, but instead of starting w
 0, 0, 1, 1, 2, 4, 7, 13, 24, 44, 81, 149, 274, 504, 927, 1705, 3136, 5768, 10609, 19513, 35890, 66012, …
 More about Tribonacci Numbers could be read trough [Wikipedia](https://en.wikipedia.org/wiki/Tribonacci_number)
 
-![Tribonacci Visualized](https://github.com/RayhanHagel/Sequence/blob/main/Tribonacci_Numbers/visualized.png)
+![Tribonacci Visualized](https://github.com/RayhanHagel/Sequence/blob/main/Tribonacci_Sequence/visualized.png)
 
 
 ### Task Lists
