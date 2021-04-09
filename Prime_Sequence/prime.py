@@ -4,7 +4,7 @@ from math import ceil
 # Algorithm to find Prime Numbers
 class Prime:
     def __init__(self):
-        self.path = r'./PrimeSequence/results.txt'
+        self.path = r'./Prime_Sequence/results.txt'
         self.limit = 10000 # Change this to get certain range result
         self.list = []
         self.num = 1

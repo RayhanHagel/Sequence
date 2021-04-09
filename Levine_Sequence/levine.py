@@ -7,7 +7,7 @@ class LevineSequence:
         self.split = ["2"]
         self.result = ""
         self.len = 0
-        self.path = r'./LevineSequence/results.txt'
+        self.path = r'./Levine_Sequence/results.txt'
 
     def void(self):
         self.start = self.split

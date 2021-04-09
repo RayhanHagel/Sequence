@@ -6,7 +6,7 @@ class Kolakoski:
         self.sequence = "12"
         self.split = []
         self.num1, self.num2 = "1", "2"
-        self.path = r'./KolakoskiSequence/results.txt'
+        self.path = r'./Kolakoski_Sequence/results.txt'
         
     def decoder(self):
         self.num1, self.num2 = "1", "2"
