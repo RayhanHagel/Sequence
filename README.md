@@ -11,5 +11,11 @@ Kolakoski sequence or Oldenburger-Kolakoski sequence is a sequence that describe
 ![Kolakoski Visualized](https://github.com/RayhanHagel/Sequence/blob/main/KolakoskiSequence/visualized.png)
 
 
+## Prime Number Sequence
+According to [Wikipedia](https://en.wikipedia.org/wiki/Prime_number), a prime number (or a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers. 
+![Prime Visualized](https://github.com/RayhanHagel/Sequence/blob/main/PrimeSeqeunce/visualized.png)
+
+
 ### Task Lists
 - [ ] Levine's Sequence memory optimization
+- [ ] Array usage into the Algorithm

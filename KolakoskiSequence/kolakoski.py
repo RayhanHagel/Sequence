@@ -13,7 +13,7 @@ class Kolakoski:
         self.split = list(self.sequence)
         self.sequence = ""
         for x in self.split:
-            self.sequence = self.sequence + (str(self.num1) * int(x))
+            self.sequence += (self.num1 * int(x))
             self.num1, self.num2 = self.num2, self.num1
         # Optional - print(self.sequence)
 

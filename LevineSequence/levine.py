@@ -21,7 +21,7 @@ class LevineSequence:
         self.result = str(sum(self.split)) + "\n"
 
     def write(self):
-        file = open(self.path, "a")
+        file = open(self.path, "w+")
         file.writelines(self.result)
         file.close()
 
