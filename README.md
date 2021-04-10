@@ -33,6 +33,12 @@ More about Tribonacci Numbers could be read trough [Wikipedia](https://en.wikipe
 ![Tribonacci Visualized](https://github.com/RayhanHagel/Sequence/blob/main/Tribonacci_Numbers/visualized.png)
 
 
+## Pell Sequence
+Pell Numbers or Lambda Numbers are just like Fibonacci and Tribonacci, where the difference is within its formula. To find F(n), you will need to use the 2* F(n-1) + F(n-2). For more information about this sequence, you could read at [The On-Line Encyclopedia Of Integer Sequence](https://oeis.org/A000129)
+
+
+
+
 ### Task Lists
 - [ ] Levine's Sequence memory optimization
 - [ ] Array usage into the Algorithm

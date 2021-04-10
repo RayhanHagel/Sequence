@@ -1,4 +1,4 @@
-import time
+
 
 # Initiates the first pattern
 class Kolakoski:
@@ -18,7 +18,7 @@ class Kolakoski:
         # Optional - print(self.sequence)
 
     def loop(self):
-        file = open(self.path, "a")    
+        file = open(self.path, "w+")    
         while True:
             self.decoder()
             file.writelines(f'{self.sequence}\n')
